@@ -1,0 +1,11 @@
+C:\Users\Mesa\source\repos\AthleteWithClasses\AthleteWithClasses\bin\Debug\AthleteWithClasses.exe.config
+C:\Users\Mesa\source\repos\AthleteWithClasses\AthleteWithClasses\bin\Debug\AthleteWithClasses.exe
+C:\Users\Mesa\source\repos\AthleteWithClasses\AthleteWithClasses\bin\Debug\AthleteWithClasses.pdb
+C:\Users\Mesa\source\repos\AthleteWithClasses\AthleteWithClasses\obj\Debug\AthleteWithClasses.csprojAssemblyReference.cache
+C:\Users\Mesa\source\repos\AthleteWithClasses\AthleteWithClasses\obj\Debug\AthleteWithClasses.AthleteEntry.resources
+C:\Users\Mesa\source\repos\AthleteWithClasses\AthleteWithClasses\obj\Debug\AthleteWithClasses.Main.resources
+C:\Users\Mesa\source\repos\AthleteWithClasses\AthleteWithClasses\obj\Debug\AthleteWithClasses.Properties.Resources.resources
+C:\Users\Mesa\source\repos\AthleteWithClasses\AthleteWithClasses\obj\Debug\AthleteWithClasses.csproj.GenerateResource.cache
+C:\Users\Mesa\source\repos\AthleteWithClasses\AthleteWithClasses\obj\Debug\AthleteWithClasses.csproj.CoreCompileInputs.cache
+C:\Users\Mesa\source\repos\AthleteWithClasses\AthleteWithClasses\obj\Debug\AthleteWithClasses.exe
+C:\Users\Mesa\source\repos\AthleteWithClasses\AthleteWithClasses\obj\Debug\AthleteWithClasses.pdb

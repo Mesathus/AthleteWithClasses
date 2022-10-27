@@ -1,0 +1,6 @@
+Steve, 2000000
+Cindy,Lawyer
+Sandy,Personal Assistant
+Mindy,Trainer
+Dave,Agent
+Ed,Lawyer
